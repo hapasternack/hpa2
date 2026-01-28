@@ -1750,7 +1750,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "HPA2-rescue:2N5564-HP-Transistor_FET"
+		(symbol "HPA2_symbols:2N5564"
 			(pin_names
 				(offset 0)
 				(hide yes)
@@ -1767,7 +1767,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "HP-Transistor_FET_2N5564"
+			(property "Value" "2N5564"
 				(at -3.81 -7.62 0)
 				(effects
 					(font
@@ -1785,7 +1785,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "~"
 				(at -10.16 0 0)
 				(effects
 					(font
@@ -1794,7 +1794,16 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "2N5564 Dual JFET, TO-71-6"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "transistor NJFET N-JFET"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1812,7 +1821,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "2N5564-HP-Transistor_FET_0_1"
+			(symbol "2N5564_0_1"
 				(polyline
 					(pts
 						(xy -10.16 0) (xy -11.176 0.381) (xy -11.176 -0.381) (xy -10.16 0)
@@ -1873,7 +1882,7 @@
 					)
 				)
 			)
-			(symbol "2N5564-HP-Transistor_FET_1_1"
+			(symbol "2N5564_1_1"
 				(polyline
 					(pts
 						(xy 7.62 2.54) (xy 7.62 1.397) (xy 9.906 1.397)
@@ -2044,7 +2053,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "HPA2-rescue:ADA4627-1-HP_Op_Amps"
+		(symbol "HPA2_symbols:ADA4627-1"
 			(pin_names
 				(offset 0.127)
 			)
@@ -2060,7 +2069,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "HP_Op_Amps_ADA4627-1"
+			(property "Value" "ADA4627-1"
 				(at 0 3.81 0)
 				(effects
 					(font
@@ -2087,7 +2096,16 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "Operational Amplifier, SOIC-8"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "single opamp"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2105,7 +2123,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "ADA4627-1-HP_Op_Amps_0_1"
+			(symbol "ADA4627-1_0_1"
 				(polyline
 					(pts
 						(xy -5.08 5.08) (xy 5.08 0) (xy -5.08 -5.08) (xy -5.08 5.08)
@@ -2119,7 +2137,7 @@
 					)
 				)
 			)
-			(symbol "ADA4627-1-HP_Op_Amps_1_1"
+			(symbol "ADA4627-1_1_1"
 				(pin input line
 					(at -7.62 2.54 0)
 					(length 2.54)
@@ -2249,7 +2267,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "HPA2-rescue:CRD-HP_Miscellaneous"
+		(symbol "HPA2_symbols:CRD"
 			(pin_numbers
 				(hide yes)
 			)
@@ -2268,7 +2286,7 @@
 					)
 				)
 			)
-			(property "Value" "HP_Miscellaneous_CRD"
+			(property "Value" "CRD"
 				(at 0 -2.54 0)
 				(effects
 					(font
@@ -2312,7 +2330,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "CRD-HP_Miscellaneous_0_1"
+			(symbol "CRD_0_1"
 				(polyline
 					(pts
 						(xy -1.27 1.27) (xy -1.27 -1.27)
@@ -2349,7 +2367,7 @@
 					)
 				)
 			)
-			(symbol "CRD-HP_Miscellaneous_1_1"
+			(symbol "CRD_1_1"
 				(pin passive line
 					(at -3.81 0 0)
 					(length 2.54)
@@ -9087,7 +9105,7 @@
 		)
 	)
 	(symbol
-		(lib_id "HPA2-rescue:2N5564-HP-Transistor_FET")
+		(lib_id "HPA2_symbols:2N5564")
 		(at 139.7 172.72 0)
 		(mirror y)
 		(unit 1)
@@ -9942,7 +9960,7 @@
 		)
 	)
 	(symbol
-		(lib_id "HPA2-rescue:CRD-HP_Miscellaneous")
+		(lib_id "HPA2_symbols:CRD")
 		(at 132.08 209.55 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -11394,7 +11412,7 @@
 		)
 	)
 	(symbol
-		(lib_id "HPA2-rescue:CRD-HP_Miscellaneous")
+		(lib_id "HPA2_symbols:CRD")
 		(at 109.22 113.03 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14708,7 +14726,7 @@
 		)
 	)
 	(symbol
-		(lib_id "HPA2-rescue:ADA4627-1-HP_Op_Amps")
+		(lib_id "HPA2_symbols:ADA4627-1")
 		(at 302.26 312.42 180)
 		(unit 1)
 		(exclude_from_sim no)
