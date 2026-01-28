@@ -10299,14 +10299,14 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:TSOT-23-5"
+	(footprint "HPA2-footprints:TSOT-23-5"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006128bd51")
 		(at 132.715 82.3595 180)
 		(descr "5-pin TSOT23 package, http://cds.linear.com/docs/en/packaging/SOT_5_05-08-1635.pdf")
 		(tags "TSOT-23-5")
 		(property "Reference" "U3"
-			(at -3.048 2.6035 180)
+			(at 3.302 -2.921 180)
 			(layer "F.SilkS")
 			(uuid "0d51b865-c51a-466a-a87b-72257b699977")
 			(effects
@@ -10361,7 +10361,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "805bd23f-6856-45a9-9b93-3c2c41843540")
+			(uuid "1adabc68-a83e-4cd3-97ea-1fc5006a3868")
 		)
 		(fp_line
 			(start -0.88 1.56)
@@ -10371,7 +10371,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "c6f49852-d4ea-46a8-9730-b505fb39144b")
+			(uuid "fc2a6b1d-7ca9-478a-969b-7fcce3fb279c")
 		)
 		(fp_line
 			(start 2.17 1.7)
@@ -10381,7 +10381,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "884690b5-eda6-4346-ac43-dded2c35d9ee")
+			(uuid "6f8130ff-6007-44d3-90e3-e1968fed9691")
 		)
 		(fp_line
 			(start 2.17 1.7)
@@ -10391,7 +10391,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "22e22d19-a975-4bb0-8e55-f98a704b85e1")
+			(uuid "34e6189e-7f88-4fd0-a1b0-be897589fb2c")
 		)
 		(fp_line
 			(start -2.17 -1.7)
@@ -10401,7 +10401,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e5c30afb-8add-4f0c-aec3-6e0fe4cc06a7")
+			(uuid "f8d63324-77ea-4ee5-bf36-b0c936d2edd7")
 		)
 		(fp_line
 			(start -2.17 -1.7)
@@ -10411,7 +10411,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "deb7c35f-eb78-4f47-aea7-07316db399bd")
+			(uuid "4a121cb1-20a0-422a-86c7-8623d8d3f839")
 		)
 		(fp_line
 			(start 0.88 1.45)
@@ -10421,7 +10421,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "016dd809-3bfc-4483-9665-d211137e1fcc")
+			(uuid "1f09b068-669c-4364-b0d5-9c1dcf9136d8")
 		)
 		(fp_line
 			(start 0.88 -1.45)
@@ -10431,7 +10431,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c24d1d89-4c75-45e6-bab6-2a94f733a420")
+			(uuid "541b0435-38d9-462d-9eed-2eaad1996c76")
 		)
 		(fp_line
 			(start 0.88 -1.45)
@@ -10441,7 +10441,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "fcc61dee-c4fc-4791-9a4e-93805652c198")
+			(uuid "e2d06f7d-7872-4ae7-b069-fa2d48b8fce9")
 		)
 		(fp_line
 			(start -0.88 -1)
@@ -10451,7 +10451,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f8cd3fa9-5492-4e02-874d-a597487210ac")
+			(uuid "378bceaf-16c2-446b-aec3-7e8f972a5c52")
 		)
 		(fp_line
 			(start -0.88 -1)
@@ -10461,7 +10461,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ef853215-8ad2-41d6-b608-e7f9cba583db")
+			(uuid "3371c095-75ff-4fa9-8512-df6cf3ba38e0")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -11957,7 +11957,7 @@
 			)
 		)
 	)
-	(footprint "Package_TO_SOT_SMD:TSOT-23-5"
+	(footprint "HPA2-footprints:TSOT-23-5"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000612b03a1")
 		(at 132.715 131.0894 180)
@@ -11966,7 +11966,7 @@
 		(property "Reference" "U2"
 			(at 3.302 -2.921 180)
 			(layer "F.SilkS")
-			(uuid "d80a24be-8e30-4b30-907e-137ea98040fc")
+			(uuid "8d9e2db0-2460-4567-b376-3c3308cee57a")
 			(effects
 				(font
 					(size 1 1)
@@ -11977,7 +11977,7 @@
 		(property "Value" "LT1761-BYP"
 			(at 0 2.5 0)
 			(layer "F.Fab")
-			(uuid "fee7890a-eb80-4ef7-a804-e3333cdbeac2")
+			(uuid "f0c20b45-90c4-4160-b776-010f2a85dd9e")
 			(effects
 				(font
 					(size 1 1)
@@ -11989,7 +11989,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a4c1fbda-b854-4280-a9b3-d2eb87403bef")
+			(uuid "1786899a-2660-43e4-bb12-680b0a0af391")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12001,7 +12001,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "53445540-4711-4794-92f5-fc8872fcb1a4")
+			(uuid "68b0e8c1-3caa-4906-8ac6-9fe9eeaa6a59")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12019,7 +12019,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "455c99cf-d286-4ba4-b830-0bedf732d343")
+			(uuid "3076f4f4-ebaf-4db7-8a46-0550e95bb633")
 		)
 		(fp_line
 			(start -0.88 1.56)
@@ -12029,7 +12029,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fe2fca25-dea4-4a37-9904-9ed2bce8d896")
+			(uuid "238ae1c3-5eb0-42d8-ab34-f7ae15141ae7")
 		)
 		(fp_line
 			(start 2.17 1.7)
@@ -12039,7 +12039,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "dad2e05f-6c9a-4f22-9b59-0de7666b2a7b")
+			(uuid "c5f3a11c-4428-4870-8a19-be0204b6629e")
 		)
 		(fp_line
 			(start 2.17 1.7)
@@ -12049,7 +12049,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a714c10a-0765-4c36-834c-d694944c496e")
+			(uuid "a998593e-cbb6-49e7-8413-6da05c079ba6")
 		)
 		(fp_line
 			(start -2.17 -1.7)
@@ -12059,7 +12059,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "60fd1cc2-e4a9-4be0-81b4-4c87792802f5")
+			(uuid "f7e89468-3345-4ee4-ad42-130a26b7e523")
 		)
 		(fp_line
 			(start -2.17 -1.7)
@@ -12069,7 +12069,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0027e702-b464-4827-ba8c-2db0d68381c4")
+			(uuid "229f9825-d676-437a-bd7c-cfcbffddc13f")
 		)
 		(fp_line
 			(start 0.88 1.45)
@@ -12079,7 +12079,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a5d4509b-b4e4-4cd9-91b3-2533b9666737")
+			(uuid "6996391c-a2ac-4b55-b121-714333f526eb")
 		)
 		(fp_line
 			(start 0.88 -1.45)
@@ -12089,7 +12089,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "40eb9685-d35b-4f7c-91d1-385b6f0fb954")
+			(uuid "fa0cc787-fa62-45b8-9798-6411b0f528e5")
 		)
 		(fp_line
 			(start 0.88 -1.45)
@@ -12099,7 +12099,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f7560f04-c574-4687-baac-f227eff2240c")
+			(uuid "b0b42de1-afdc-48d1-834d-b91ea24d0a56")
 		)
 		(fp_line
 			(start -0.88 -1)
@@ -12109,7 +12109,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "9beabc42-4e78-4a1f-ae0a-2886a450abc5")
+			(uuid "9cd25564-b697-4987-b456-5e39c5dbb5ef")
 		)
 		(fp_line
 			(start -0.88 -1)
@@ -12119,7 +12119,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "5d1e55d5-2aa0-4b7d-b455-43354082d878")
+			(uuid "fed5dc22-e6c0-4ad1-b891-1b0199399b9d")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
