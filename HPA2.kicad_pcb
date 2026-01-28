@@ -156,7 +156,7 @@
 	(net 80 "Net-(Q26-Pad3)")
 	(net 81 "Net-(Q27-Pad3)")
 	(net 82 "Net-(C21-Pad1)")
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+	(footprint "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000611ecc82")
 		(at 134.62 100.584 180)
@@ -218,7 +218,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2d0fa8bd-74cb-498f-87bd-cf290cc99ce8")
+			(uuid "d85e69ba-3ed2-4ad4-ae22-73b4f5496d9e")
 		)
 		(fp_line
 			(start -0.261252 -0.71)
@@ -228,7 +228,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "88f5b6cb-92ea-488e-8b59-b72d381fea3b")
+			(uuid "eb9f9401-a13b-41af-bc48-3788fb3859f6")
 		)
 		(fp_line
 			(start 1.85 0.95)
@@ -238,7 +238,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "dcfba3db-3774-4eea-9e4d-a73a358ad14f")
+			(uuid "c067e279-2a32-4b42-95ad-fc0c2841abfc")
 		)
 		(fp_line
 			(start 1.85 -0.95)
@@ -248,7 +248,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "acf64c62-1230-41b7-8fd8-eccb80783c07")
+			(uuid "2dffdf8a-05bc-4175-aebf-c0e749401c03")
 		)
 		(fp_line
 			(start -1.85 0.95)
@@ -258,7 +258,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "7b92e79b-f4fe-443e-a592-51b8b0a2356c")
+			(uuid "6537c8b8-a252-426d-9b43-8c6136871bad")
 		)
 		(fp_line
 			(start -1.85 -0.95)
@@ -268,7 +268,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "12899f1b-c5e8-467e-a94e-6c3afd9947cc")
+			(uuid "8e82c0f8-7a60-40cc-a544-d83f2afd313c")
 		)
 		(fp_line
 			(start 1 0.6)
@@ -278,7 +278,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f528b441-18ea-4a68-a622-af3aa10b0abe")
+			(uuid "d47d4cba-1d63-4363-bc51-5597946f06ee")
 		)
 		(fp_line
 			(start 1 -0.6)
@@ -288,7 +288,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "31fb3c69-010b-439b-a448-ff3d6e114855")
+			(uuid "436a7a1e-9807-4a10-b7f1-cf06476844d8")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -298,7 +298,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "eeed8f63-89fb-48b1-b097-c650207c551e")
+			(uuid "ca364f7c-5b2b-4d3b-82d9-5548bc4f202d")
 		)
 		(fp_line
 			(start -1 -0.6)
@@ -308,7 +308,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "ff17d499-4101-4d29-bcca-b2ae9a782e02")
+			(uuid "372ba52d-7244-47ea-91e7-763c316d6bf9")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
@@ -8701,7 +8701,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+	(footprint "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006128bc93")
 		(at 133.858 86.0425 90)
@@ -8763,7 +8763,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "189fa925-4d5e-4145-bab0-83f6c2bd64f8")
+			(uuid "8d1305be-e086-4fe1-ac10-9cc95eff4a05")
 		)
 		(fp_line
 			(start -0.261252 0.71)
@@ -8773,7 +8773,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "88ebf9f6-d145-4c72-83e9-d02fe9e1b6c2")
+			(uuid "e8d175c4-a969-47cb-b9c2-e90c1afc80b7")
 		)
 		(fp_line
 			(start 1.85 -0.95)
@@ -8783,7 +8783,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0d3e317f-36b0-4c2a-82b0-5a88efb20ced")
+			(uuid "d34ce212-51e9-4e52-8426-da4a9b9c55bf")
 		)
 		(fp_line
 			(start -1.85 -0.95)
@@ -8793,7 +8793,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6048b6a6-b81a-4c5c-a840-4c52a62ff54d")
+			(uuid "45f1688f-5897-48e9-b4e2-2cfa51b62384")
 		)
 		(fp_line
 			(start 1.85 0.95)
@@ -8803,7 +8803,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "c13f9c92-bf34-4154-805e-059f2c3b5460")
+			(uuid "5c4055a1-4ebb-437a-b7d4-8f81b5a0dd1a")
 		)
 		(fp_line
 			(start -1.85 0.95)
@@ -8813,7 +8813,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "ae0404d3-cbbe-4d98-afd0-fd2b96a6a6a9")
+			(uuid "d32a5698-a175-4834-ae49-03b367359add")
 		)
 		(fp_line
 			(start 1 -0.6)
@@ -8823,7 +8823,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8f99aa07-5190-49be-8368-5085e46b257b")
+			(uuid "0dd0f433-3787-4a42-81c4-2af1e16ccb95")
 		)
 		(fp_line
 			(start -1 -0.6)
@@ -8833,7 +8833,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f0f868e6-993f-48bd-96f2-7889f680b919")
+			(uuid "f5d2d2e5-8738-479b-856b-e91ef317c1b3")
 		)
 		(fp_line
 			(start 1 0.6)
@@ -8843,7 +8843,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0e11fb0f-e6d5-4a56-8ad6-4d738474934e")
+			(uuid "3a4c5b2f-e94a-4ab6-82e8-4710ed8e6bca")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -8853,7 +8853,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "460aae03-b079-422e-96f8-a97e3a0b1fb5")
+			(uuid "cc6bcfe7-d356-41c4-aaad-822f5656bb7b")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -8895,7 +8895,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+	(footprint "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-00006128bcc3")
 		(at 131.572 86.0425 90)
@@ -8957,7 +8957,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "47526f84-bbb5-455e-8712-8ecf99962a69")
+			(uuid "bfd678fc-8019-4d9b-ad6b-5a9435aa0c79")
 		)
 		(fp_line
 			(start -0.261252 0.71)
@@ -8967,7 +8967,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d6a0fd7c-bfb8-4beb-aedb-2456cab76d07")
+			(uuid "3a894d49-6097-4835-8028-aff910211fca")
 		)
 		(fp_line
 			(start 1.85 -0.95)
@@ -8977,7 +8977,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "36a555ce-d0b8-4ea7-85b4-67a5e01a8783")
+			(uuid "451f7d66-99a3-4ecd-a8eb-c22e9d6ff3f8")
 		)
 		(fp_line
 			(start -1.85 -0.95)
@@ -8987,7 +8987,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "b93e61d7-32e8-4c29-b3ae-e5074bf4bab8")
+			(uuid "3853732c-ea0c-4138-8b2b-853a277662ce")
 		)
 		(fp_line
 			(start 1.85 0.95)
@@ -8997,7 +8997,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "30ef8911-5084-4459-8adb-cdf3c7bf64f3")
+			(uuid "03771f3d-62a8-4f88-b72a-e1dd97109f7c")
 		)
 		(fp_line
 			(start -1.85 0.95)
@@ -9007,7 +9007,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bf94bd72-a2fc-4ab5-9202-da4a920828c9")
+			(uuid "1a133f5e-53fb-48df-ada8-7014519248a8")
 		)
 		(fp_line
 			(start 1 -0.6)
@@ -9017,7 +9017,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0dae0760-d915-4545-80aa-daee10faa8d5")
+			(uuid "bfefb38a-1be5-46fc-a3ce-3a439f89448b")
 		)
 		(fp_line
 			(start -1 -0.6)
@@ -9027,7 +9027,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "16193642-cd65-4203-891c-3109aa43031b")
+			(uuid "42714693-3e89-4dbf-b147-ef3009cfb6bf")
 		)
 		(fp_line
 			(start 1 0.6)
@@ -9037,7 +9037,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "19ebad46-1fbd-40b3-b68b-f4328f796ddc")
+			(uuid "ba8c4a34-8ac2-4622-9915-94f5e6df1a0c")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -9047,7 +9047,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8f9ff0dd-2d4d-4d25-bff0-41e8c998153d")
+			(uuid "3edbca8e-be87-4445-a09c-3837c4a89a85")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -10239,7 +10239,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+	(footprint "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000612b030d")
 		(at 133.858 127.381 90)
@@ -10301,7 +10301,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3ebee842-66d7-4606-9695-7dadaedc7edf")
+			(uuid "b28dc187-974b-49c7-909c-42117682a6a1")
 		)
 		(fp_line
 			(start -0.261252 0.71)
@@ -10311,7 +10311,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "dba49159-0a64-4519-812f-4bb76b9c1b17")
+			(uuid "3a9ae624-eec2-43f0-8ef1-c6b0b4edfcfc")
 		)
 		(fp_line
 			(start 1.85 -0.95)
@@ -10321,7 +10321,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2965057f-3f0b-46c1-b224-543f9d8d9d52")
+			(uuid "cab3aae7-9fb6-43d7-a22f-2c4ed899062b")
 		)
 		(fp_line
 			(start -1.85 -0.95)
@@ -10331,7 +10331,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "64d2d82b-8c80-408b-84c3-6b27a075817b")
+			(uuid "ac426dfc-7d33-48c5-988f-bf27f5154d00")
 		)
 		(fp_line
 			(start 1.85 0.95)
@@ -10341,7 +10341,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "5980b2a9-4c99-4ff4-a7d7-157adf8151ad")
+			(uuid "a92a61a8-5f4a-4171-b820-a1fe9083d4cb")
 		)
 		(fp_line
 			(start -1.85 0.95)
@@ -10351,7 +10351,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f538fed6-e320-4e54-9e6d-e4fc4f1ef2ff")
+			(uuid "d1db58f8-772a-4ff8-bbee-6df3a760668e")
 		)
 		(fp_line
 			(start 1 -0.6)
@@ -10361,7 +10361,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "034a5b80-904d-4faa-9a21-ebc352dd00e8")
+			(uuid "3623824b-3858-4565-8702-405a1bc22b24")
 		)
 		(fp_line
 			(start -1 -0.6)
@@ -10371,7 +10371,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "410a808e-5047-4d09-9fe1-a392145ede80")
+			(uuid "50322031-a681-4b0e-801c-4b784e49ff34")
 		)
 		(fp_line
 			(start 1 0.6)
@@ -10381,7 +10381,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7da183cb-4b87-4dbc-957c-960731e037e0")
+			(uuid "de5105b5-b766-4e9a-81cf-877963cd1f90")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -10391,7 +10391,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "4698ca35-7939-4dbe-9b84-986b803dce2f")
+			(uuid "d02e51b2-3948-4713-914b-5b22e35a70f9")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -10627,7 +10627,7 @@
 			)
 		)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+	(footprint "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000612b036d")
 		(at 131.572 127.381 90)
@@ -10689,7 +10689,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "33f59ade-a271-444d-b3bc-c0ab76d7226c")
+			(uuid "7dec97e8-d1a1-422b-a2fb-28574f231e15")
 		)
 		(fp_line
 			(start -0.261252 0.71)
@@ -10699,7 +10699,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "d2b3eb75-ebd4-468b-8947-9e33075bb120")
+			(uuid "d88050f5-0ac4-49f3-97fa-a328dd22b00b")
 		)
 		(fp_line
 			(start 1.85 -0.95)
@@ -10709,7 +10709,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f7ce629c-421d-44be-80a6-5d237c56a2c5")
+			(uuid "e846f83a-8c94-4324-aa31-cc3ccd2a775f")
 		)
 		(fp_line
 			(start -1.85 -0.95)
@@ -10719,7 +10719,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cbb20d98-8f01-46ca-8fb6-376d6a1423b0")
+			(uuid "8700cfaf-78d5-4b10-bc9f-ce9060c3136b")
 		)
 		(fp_line
 			(start 1.85 0.95)
@@ -10729,7 +10729,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f29024ea-32d3-4e66-a432-d4268eb5c337")
+			(uuid "09e676fb-fd0a-4d83-91d9-fb7ee643b9cc")
 		)
 		(fp_line
 			(start -1.85 0.95)
@@ -10739,7 +10739,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "e91bd4de-4cc7-4948-b9e7-fa13797fca1e")
+			(uuid "0983dac8-f2d5-436d-99de-406699115684")
 		)
 		(fp_line
 			(start 1 -0.6)
@@ -10749,7 +10749,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "0df5d598-62c9-4758-aa11-c9f42fb97b45")
+			(uuid "dc862866-87cc-4b0c-8c92-938575fa59f8")
 		)
 		(fp_line
 			(start -1 -0.6)
@@ -10759,7 +10759,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "2f14b59d-4494-4440-b918-3e6ea47afd50")
+			(uuid "40f64a17-9a29-4935-8a11-01806f7b5723")
 		)
 		(fp_line
 			(start 1 0.6)
@@ -10769,7 +10769,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "1d80f246-e7bc-40a8-aecf-ff5221bda905")
+			(uuid "dbc9f3f3-6b08-484a-9a62-a166948a8364")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -10779,7 +10779,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "64c05c5c-e5d1-40cf-8af6-50276b5767e7")
+			(uuid "6a670489-d3a1-47b2-8948-b8927f755a36")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -26649,7 +26649,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+	(footprint "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000615c5cb1")
 		(at 130.81 100.584)
@@ -26711,7 +26711,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ef66faaf-a1a7-484a-b960-dc1e9c8e910a")
+			(uuid "dcea8be2-2720-47bf-9f1f-524eb0736f2f")
 		)
 		(fp_line
 			(start -0.261252 0.71)
@@ -26721,7 +26721,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6ef40552-9eda-4d83-b88c-a39ec0ca5014")
+			(uuid "43471f78-2d22-4441-9460-9f6f7b0f2fb5")
 		)
 		(fp_line
 			(start -1.85 -0.95)
@@ -26731,7 +26731,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "83e70150-6d69-46c1-9acf-400dbaadb07c")
+			(uuid "ce8b5070-c59c-4fbf-99f5-6582291096f4")
 		)
 		(fp_line
 			(start -1.85 0.95)
@@ -26741,7 +26741,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9366d4aa-2120-43f4-92d1-48435ba38a6a")
+			(uuid "efae173a-ac29-45b4-875c-7252360cc21c")
 		)
 		(fp_line
 			(start 1.85 -0.95)
@@ -26751,7 +26751,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "cb2b8d53-fc6f-4493-9fdf-4954a86a3ff6")
+			(uuid "14525b2d-f671-4342-b97e-fa1bf83b8ce3")
 		)
 		(fp_line
 			(start 1.85 0.95)
@@ -26761,7 +26761,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "70e35c54-6186-40fa-a7ff-739d46725182")
+			(uuid "7bb04229-7fe8-4fca-b197-abe8280166b0")
 		)
 		(fp_line
 			(start -1 -0.6)
@@ -26771,7 +26771,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "246cb399-765f-4009-b120-863f2d6c551f")
+			(uuid "19581505-4525-4c79-8665-1bac39e30422")
 		)
 		(fp_line
 			(start -1 0.6)
@@ -26781,7 +26781,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c7b66592-96b4-4da6-9557-c229fdb2ec0c")
+			(uuid "6b4008cb-4e3f-45bf-923e-d7cd7612cd0a")
 		)
 		(fp_line
 			(start 1 -0.6)
@@ -26791,7 +26791,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "fa20994f-53e7-4a2c-96bb-12472c8a77f3")
+			(uuid "a4edd2dc-816f-4bfc-939f-241ed7c847c2")
 		)
 		(fp_line
 			(start 1 0.6)
@@ -26801,7 +26801,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "282fa9b4-ed07-49de-ba7d-1f569f2e62a4")
+			(uuid "d3c3fd1a-c542-4756-8456-0ae2698462ce")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
