@@ -4898,12 +4898,6 @@
 		(uuid "bda05e74-e0c1-4fa3-ae9f-f6bee2e4877f")
 	)
 	(junction
-		(at 175.26 132.08)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "bdd41927-ba10-49e9-9478-c2ede9ad4901")
-	)
-	(junction
 		(at 139.7 246.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5945,7 +5939,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 132.08) (xy 162.56 132.08)
+			(xy 162.56 132.08) (xy 190.5 132.08)
 		)
 		(stroke
 			(width 0)
@@ -7332,16 +7326,6 @@
 			(type default)
 		)
 		(uuid "a15baa3a-b69d-44fa-9a39-f8fd9a1c528e")
-	)
-	(wire
-		(pts
-			(xy 190.5 132.08) (xy 175.26 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a16c07f2-b795-4857-95b5-62f3d7ce38d5")
 	)
 	(wire
 		(pts
@@ -9132,7 +9116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "HP_Footprints:TO-71-6"
+		(property "Footprint" "HPA2-footprints:TO-71-6"
 			(at 139.7 182.88 0)
 			(effects
 				(font
@@ -9986,7 +9970,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "HP_Footprints:Semitec-CRD-SMD"
+		(property "Footprint" "HPA2-footprints:Semitec-CRD-SMD"
 			(at 136.525 209.55 0)
 			(effects
 				(font
@@ -10463,7 +10447,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
+		(property "Footprint" "HPA2-footprints:TO-126-3_Vertical"
 			(at 378.46 130.175 0)
 			(effects
 				(font
@@ -10813,7 +10797,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
+		(property "Footprint" "HPA2-footprints:TO-126-3_Vertical"
 			(at 378.46 182.245 0)
 			(effects
 				(font
@@ -10887,7 +10871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
+		(property "Footprint" "HPA2-footprints:TO-126-3_Vertical"
 			(at 378.46 215.265 0)
 			(effects
 				(font
@@ -11166,7 +11150,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "HP_Footprints:3-pad-wire-connector-22-ga"
+		(property "Footprint" "HPA2-footprints:3-pad-wire-connector-22-ga"
 			(at 444.5 124.46 0)
 			(effects
 				(font
@@ -11438,7 +11422,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "HP_Footprints:Semitec-CRD-SMD"
+		(property "Footprint" "HPA2-footprints:Semitec-CRD-SMD"
 			(at 113.665 113.03 0)
 			(effects
 				(font
@@ -11639,7 +11623,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "HP_Footprints:2-pad-wire-connector-22-ga"
+		(property "Footprint" "HPA2-footprints:2-pad-wire-connector-22-ga"
 			(at 485.14 205.74 0)
 			(effects
 				(font
@@ -11911,7 +11895,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 303.022 227.33 90)
 			(effects
 				(font
@@ -11979,7 +11963,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 303.022 240.03 90)
 			(effects
 				(font
@@ -12118,7 +12102,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 461.01 210.185 0)
 			(effects
 				(font
@@ -12382,7 +12366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 140.97 117.475 0)
 			(effects
 				(font
@@ -12448,7 +12432,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 302.26 252.4252 0)
 			(effects
 				(font
@@ -12516,7 +12500,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
+		(property "Footprint" "HPA2-footprints:TO-126-3_Vertical"
 			(at 403.86 142.24 0)
 			(effects
 				(font
@@ -12724,7 +12708,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
+		(property "Footprint" "HPA2-footprints:TO-126-3_Vertical"
 			(at 403.86 200.66 0)
 			(effects
 				(font
@@ -12795,7 +12779,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-34_SOD68_P7.62mm_Horizontal"
 			(at 109.22 153.67 0)
 			(effects
 				(font
@@ -12996,7 +12980,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-34_SOD68_P7.62mm_Horizontal"
 			(at 279.4 146.05 0)
 			(effects
 				(font
@@ -13064,7 +13048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-34_SOD68_P7.62mm_Horizontal"
 			(at 279.4 199.39 0)
 			(effects
 				(font
@@ -14060,7 +14044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 321.31 313.182 90)
 			(effects
 				(font
@@ -14969,7 +14953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 321.31 290.322 90)
 			(effects
 				(font
@@ -15100,7 +15084,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-5"
+		(property "Footprint" "HPA2-footprints:TSOT-23-5"
 			(at 320.04 80.01 0)
 			(effects
 				(font
@@ -15176,7 +15160,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23-5"
+		(property "Footprint" "HPA2-footprints:TSOT-23-5"
 			(at 322.58 251.46 0)
 			(effects
 				(font
@@ -15597,7 +15581,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 303.022 95.25 90)
 			(effects
 				(font
@@ -15665,7 +15649,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 			(at 303.022 107.95 90)
 			(effects
 				(font
@@ -15935,7 +15919,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-126-3_Vertical"
+		(property "Footprint" "HPA2-footprints:TO-126-3_Vertical"
 			(at 378.46 163.195 0)
 			(effects
 				(font
@@ -16143,7 +16127,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "HP_Footprints:2-pad-wire-connector-small"
+		(property "Footprint" "HPA2-footprints:2-pad-wire-connector-small"
 			(at 485.14 175.26 0)
 			(effects
 				(font
@@ -16209,7 +16193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
 			(at 299.72 82.2452 0)
 			(effects
 				(font
@@ -16340,7 +16324,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HP_Footprints:2-pad-wire-connector-small"
+		(property "Footprint" "HPA2-footprints:2-pad-wire-connector-small"
 			(at 60.96 172.72 0)
 			(effects
 				(font
@@ -16408,7 +16392,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 380.365 153.67 0)
 			(effects
 				(font
@@ -16476,7 +16460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 380.365 191.77 0)
 			(effects
 				(font
@@ -16879,7 +16863,7 @@
 				)
 			)
 		)
-		(property "Footprint" "HP_Footprints:HPA-Output-Coil"
+		(property "Footprint" "HPA2-footprints:HPA-Output-Coil"
 			(at 433.07 172.72 0)
 			(effects
 				(font
@@ -17240,7 +17224,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 140.97 121.285 0)
 			(effects
 				(font
@@ -17308,7 +17292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "HP_Footprints:1-pad-wire-connector-22-ga"
+		(property "Footprint" "HPA2-footprints:1-pad-wire-connector-22-ga"
 			(at 302.26 193.04 0)
 			(effects
 				(font
@@ -17842,7 +17826,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 260.35 210.185 0)
 			(effects
 				(font
@@ -17908,7 +17892,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 260.35 205.105 0)
 			(effects
 				(font
@@ -17975,7 +17959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 260.35 144.145 0)
 			(effects
 				(font
@@ -18042,7 +18026,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
+		(property "Footprint" "HPA2-footprints:D_DO-35_SOD27_P7.62mm_Horizontal"
 			(at 260.35 151.765 0)
 			(effects
 				(font
