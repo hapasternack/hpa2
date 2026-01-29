@@ -156,6 +156,7 @@
 	(net 80 "unconnected-(U4-N-Pad1)")
 	(net 81 "unconnected-(U4-N-Pad5)")
 	(net 82 "Net-(D11-A)")
+	(net 83 "unconnected-(U4-Pad8)")
 	(footprint "HPA2-footprints:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
 		(layer "F.Cu")
 		(uuid "00000000-0000-0000-0000-0000611ecc82")
@@ -10086,6 +10087,8 @@
 			(size 1.95 0.6)
 			(layers "F.Cu" "F.Mask" "F.Paste")
 			(roundrect_rratio 0.25)
+			(net 83 "unconnected-(U4-Pad8)")
+			(pintype "no_connect")
 			(uuid "55869423-1b5b-4a3c-a5b1-1824fda3bc42")
 		)
 		(embedded_fonts no)

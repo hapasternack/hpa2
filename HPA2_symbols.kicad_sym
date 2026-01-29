@@ -313,7 +313,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(property "Reference" "U"
-			(at 0 6.35 0)
+			(at -0.254 7.366 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -322,7 +322,7 @@
 			)
 		)
 		(property "Value" "ADA4627-1"
-			(at 0 3.81 0)
+			(at -0.254 5.334 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -473,6 +473,24 @@
 					)
 				)
 				(number "1"
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+			)
+			(pin no_connect line
+				(at 2.54 3.81 270)
+				(length 2.54)
+				(name ""
+					(effects
+						(font
+							(size 1.27 1.27)
+						)
+					)
+				)
+				(number "8"
 					(effects
 						(font
 							(size 1.27 1.27)
